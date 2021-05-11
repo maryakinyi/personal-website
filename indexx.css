@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(26, 3, 7);
+    color: azure;
+}
+
+.navbar {
+    padding-left: 1%;
+    background-color: aliceblue;
+    padding: 1%;
+}
+
+ul li {
+    display: inline;
+    color: white;
+}
+
+ul li {
+    padding-left: 50px;
+}
+
+#content {
+    color: rgb(221, 221, 230);
+    display: inline;
+}
+
+.image {
+    float: right;
+    display: grid;
+    background-color: coral;
+}
+
+.pic {
+    float: right;
+}
+
+#sect {
+    border-style: hidden;
+    border-top: 30px;
+    border-width: 70px;
+}
+
+#index {
+    padding-left: 1%;
+    background-color: aliceblue;
+    padding: 1%;
+}
+
+.go {
+    text-align: center;
+}
+
+.name {
+    text-align-last: center;
+}
+
+.log {
+    align-content: space-between;
+}
